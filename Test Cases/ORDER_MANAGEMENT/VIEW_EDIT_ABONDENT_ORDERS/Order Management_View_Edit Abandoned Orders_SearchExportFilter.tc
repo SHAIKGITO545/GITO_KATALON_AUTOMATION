@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order Management_View_Edit Abandoned Orders_SearchExportFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27d6ea5b-2638-452d-9c15-2799f04e6a72</testCaseGuid>
+</TestCaseEntity>

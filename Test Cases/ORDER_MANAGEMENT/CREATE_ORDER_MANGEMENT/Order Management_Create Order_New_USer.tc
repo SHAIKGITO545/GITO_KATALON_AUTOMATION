@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Order Management_Create Order</description>
+   <name>Order Management_Create Order_New_USer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f9611c78-2944-4d03-9408-3dbb4056a441</testCaseGuid>
+</TestCaseEntity>

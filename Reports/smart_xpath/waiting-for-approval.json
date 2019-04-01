@@ -1,0 +1,52 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": false,
+      "proposedXPath": "//button[@id\u003d\u0027subcategoryBulkButton\u0027]",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/button_Upload",
+      "brokenXPath": "//button[@id\u003d\u0027categoryBulkButton\u0027]"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[2]/div/a",
+      "testObjectId": "Object Repository/BULK_INVONTORY_WEB_OBJECTS/Page_GitoMe Digital Transformation Platform/a_Download Subcategory Template",
+      "brokenXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[2]/a"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[2]/div/a",
+      "testObjectId": "Object Repository/BULK_INVONTORY_WEB_OBJECTS/Page_GitoMe Digital Transformation Platform/a_Download Subcategory Template",
+      "brokenXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[2]/a"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//button[@id\u003d\u0027subcategoryBulkButton\u0027]",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/button_Upload",
+      "brokenXPath": "//button[@id\u003d\u0027categoryBulkButton\u0027]"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//button[@id\u003d\u0027subcategoryBulkButton\u0027]",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/button_Upload",
+      "brokenXPath": "//button[@id\u003d\u0027categoryBulkButton\u0027]"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[2]/div[2]/a",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/a_Video tutorial",
+      "brokenXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[3]/a"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div/div[2]/a",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/a_Video tutorial",
+      "brokenXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[3]/a"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div/div[2]/a",
+      "testObjectId": "Object Repository/Page_GitoMe Digital Transformation Platform/a_Video tutorial",
+      "brokenXPath": "//body[@id\u003d\u0027NoPusher\u0027]/div[2]/div/div[2]/div/div/div[3]/a"
+    }
+  ]
+}

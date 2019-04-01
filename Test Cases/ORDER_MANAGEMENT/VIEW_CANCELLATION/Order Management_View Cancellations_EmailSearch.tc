@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order Management_View Cancellations_EmailSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b11b6f46-e046-4693-a399-ad64c437a6a4</testCaseGuid>
+</TestCaseEntity>

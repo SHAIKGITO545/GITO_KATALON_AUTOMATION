@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order Management_View Edit Order_Create_Shipment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bfd6de0-fba1-48af-8e22-a1e04ab970d1</testCaseGuid>
+</TestCaseEntity>

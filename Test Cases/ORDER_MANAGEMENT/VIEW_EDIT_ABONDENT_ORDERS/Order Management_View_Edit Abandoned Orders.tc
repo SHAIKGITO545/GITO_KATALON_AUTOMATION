@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order Management_View_Edit Abandoned Orders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f97e7a33-c0b9-403b-bf9e-51442a9b1ef3</testCaseGuid>
+</TestCaseEntity>

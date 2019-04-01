@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update the Existing Categories and upload the new Categories</description>
+   <name>Download_ Existing Categories</name>
+   <tag>Bulk Inventory_Update existing categories</tag>
+   <comment></comment>
+   <testCaseGuid>8537bc32-5633-4869-8660-0f6de569a64a</testCaseGuid>
+</TestCaseEntity>
